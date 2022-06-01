@@ -2,3 +2,31 @@
 ## Tópicos
 
 * [Relatório de Research](/src/research.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
