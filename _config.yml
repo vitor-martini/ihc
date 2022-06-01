@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - research.md
   - README.md
-theme: jekyll-theme-slate
+  - research.md
+
+theme: jekyll-theme-tactile
