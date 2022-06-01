@@ -32,6 +32,10 @@ Os interessados no projeto são compostos por:
 * O Nexus Growth Digital tem reuniões bimestrais, pois o acompanhamento é pelo desenvolvimento de softwares e serviços. Já o Tech trimestral, pois como acompanha um desenvolvimento físico de produtos, leva mais tempo.
 * A equipe do Nexus tem um modelo pronto para a análise das Startups. Para as empresas do Digital, o MAIA, e do Tech o MAEI.
 
+<p align="center">
+  <img src="./img/research/maia.png"/>
+</p>
+
 
 * Os consultores que geram os relatórios são terceirizados. Porém utilizam os modelos da Nexus descritos acima.
 * A partir das análises dos consultores são feitas as conexões, isto é, órgãos e empresas que as Startups devem entrar em contato para seu desenvolvimento.
