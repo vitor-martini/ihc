@@ -15,7 +15,7 @@ Os interessados no projeto são compostos por:
 
 ## **(c) discutir os métodos de pesquisa do usuário que você usou, fornecer justificativa para eles e fornecer um resumo de suas descobertas de cada um desses métodos;**
 
-`	`**Desk Research:** Utilizamos o desk research para procurar informações sobre o processo de incubação das Startups no Nexus com o objetivo de conhecer o processo seletivo. Com o Desk Research poderíamos entender sobre o projeto do Nexus sem precisar nos conectar com nenhuma pessoa da equipe, apenas consultando a documentação do programa. Descobertas:
+**Desk Research:** Utilizamos o desk research para procurar informações sobre o processo de incubação das Startups no Nexus com o objetivo de conhecer o processo seletivo. Com o Desk Research poderíamos entender sobre o projeto do Nexus sem precisar nos conectar com nenhuma pessoa da equipe, apenas consultando a documentação do programa. Descobertas:
 
 * O Nexus conta com seis programas de aceleração: Lab, Growth, Scale Up, PD&I, Corp e Base. E o foco de nosso projeto é o acompanhamento no programa Nexus Growth. https://pqtec.org.br/nexus/
 * O Nexus Growth é dividido em dois: Tech e Digital. Os dois têm como objetivo consolidar o modelo de negócios, porém o Tech é dedicado às startups que inovam por meio de desenvolvimento tecnológico (hardware, produtos físicos). Já o Digital voltado para quem atua com modelos de negócio inovadores (software, prestações de serviços digitais). <https://pqtec.org.br/nexus/nexus-startups/#nexus-growth>
