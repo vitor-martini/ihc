@@ -36,11 +36,18 @@ Os interessados no projeto são compostos por:
   <img src="./img/research/maia.png"/>
 </p>
 
+<p align="center">
+  <img src="./img/research/maei.png"/>
+</p>
 
 * Os consultores que geram os relatórios são terceirizados. Porém utilizam os modelos da Nexus descritos acima.
 * A partir das análises dos consultores são feitas as conexões, isto é, órgãos e empresas que as Startups devem entrar em contato para seu desenvolvimento.
 * A maior dificuldade deles é centralizar todo o histórico de cada projeto em um só portal.
 * Hoje eles utilizam uma plataforma, mas somente para a inscrição das Startups, a partir desta, é composta uma planilha e diretórios locais, que servem para o acompanhamento posterior.
+
+<p align="center">
+  <img src="./img/research/sistema-atual.png"/>
+</p>
 
 * Para o novo projeto, é importante ter: informações centralizadas, histórico de crescimento, entregas das startup, alertas e lembretes para as startups marcarem reuniões (devolutivas) com os consultores.
 * Conexões: são todos os envolvimentos (outras Startups, consultores, investidores, etc) que a Startup tem durante o Nexus.
