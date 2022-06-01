@@ -10,4 +10,3 @@ This little guide demonstrates how to turn any [Github](http://github.com) repos
 * The markdown files will remain just as readable and usable in Github than in your website.
 
 * [Here is the link to the Github Pages version](research.md)
-![](./printscreen4.png)
