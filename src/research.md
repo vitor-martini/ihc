@@ -42,6 +42,11 @@ Os interessados no projeto são compostos por:
 
 * Os consultores que geram os relatórios são terceirizados. Porém utilizam os modelos da Nexus descritos acima.
 * A partir das análises dos consultores são feitas as conexões, isto é, órgãos e empresas que as Startups devem entrar em contato para seu desenvolvimento.
+
+<p align="center">
+  <img src="./img/research/conexoes.png"/>
+</p>
+
 * A maior dificuldade deles é centralizar todo o histórico de cada projeto em um só portal.
 * Hoje eles utilizam uma plataforma, mas somente para a inscrição das Startups, a partir desta, é composta uma planilha e diretórios locais, que servem para o acompanhamento posterior.
 
@@ -56,6 +61,10 @@ Os interessados no projeto são compostos por:
 
 O uso dos métodos foi bom e nos trouxe muitas respostas. Gravando a reunião temos “anotações em tempo real” e qualquer dúvida podemos consultar novamente esse registro. Porém se fosse para fazer algo diferente, faríamos uma reunião mais longa e com mais pessoas envolvidas. Como a Bárbara tinha tempo limitado, separamos as perguntas com antecedência e não podíamos nos estender muito em algum assunto. Além disso, a visão dela sobre como as Startups desfrutam do Nexus é enviesada, gostaríamos que tivesse uma pessoa representante das Startups na reunião. 
 
+<p align="center">
+  <img src="./img/research/perguntas.png"/>
+</p>
+
 O Desk Research foi mais complexo de ser feito, começamos pelo próprio site da Nexus, porém não obtivemos muitas informações, passamos então para o edital de seleção para nos dar algumas informações e em seguida procuramos por outros centros de inovação e incubação para saber como o sistema deles funcionava. Com a entrevista pedimos imagens do sistema atual deles para sabermos como está agora e o que vale a pena mudar ou não.
 
 ## **(e) forneça de 6 a 8 descrições de tarefas de como você espera que o sistema seja usado.**
@@ -68,6 +77,7 @@ O Desk Research foi mais complexo de ser feito, começamos pelo próprio site da
 * Consulta fácil: Os usuários devem conseguir, facilmente, utilizar filtros para consultar dados de empresas.
 * Padronização de dados de entrada
 
+## **Entrevista completa**
 <p align="center">  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFc-A5jR-qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
