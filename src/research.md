@@ -1,11 +1,13 @@
-﻿# **Relatório de Research**
+﻿# Interação Humano Computador
 [<< Menu](../README.md)
 
-## **(a) uma descrição sucinta de sua ideia de projeto, como você espera que seu sistema seja usado, por quem e o contexto em que você espera que ele seja usado**
+## **Relatório de Research**
+
+### **(a) uma descrição sucinta de sua ideia de projeto, como você espera que seu sistema seja usado, por quem e o contexto em que você espera que ele seja usado**
 
 O projeto consiste em desenvolver uma plataforma web para gerenciar o crescimento de startups em programas de aceleração. Espera-se que o sistema seja utilizado no dia a dia dos empregados da Nexus com o objetivo de otimizar seu serviço ao manter os dados coletados durante os acompanhamentos centralizados, de fácil acesso e interpretação das informações.
 
-## **(b) fornecer uma lista de interessados ​​e descrevê-los no que se refere ao projeto do sistema;**
+### **(b) fornecer uma lista de interessados ​​e descrevê-los no que se refere ao projeto do sistema;**
 
 Os interessados no projeto são compostos por:
 
@@ -14,7 +16,7 @@ Os interessados no projeto são compostos por:
 * **Startups:** Pequenas empresas que terão seus dados analisados. No sistema estarão centralizados todos os dados de seu período de incubação. 
 * **Empresas parceiras:** Companhias que fazem conexão com as Startups por meio do Nexus. Influenciam diretamente no processo de crescimento da Startups por meio de parcerias.
 
-## **(c) discutir os métodos de pesquisa do usuário que você usou, fornecer justificativa para eles e fornecer um resumo de suas descobertas de cada um desses métodos;**
+### **(c) discutir os métodos de pesquisa do usuário que você usou, fornecer justificativa para eles e fornecer um resumo de suas descobertas de cada um desses métodos;**
 
 **Desk Research:** Utilizamos o desk research para procurar informações sobre o processo de incubação das Startups no Nexus com o objetivo de conhecer o processo seletivo. Com o Desk Research poderíamos entender sobre o projeto do Nexus sem precisar nos conectar com nenhuma pessoa da equipe, apenas consultando a documentação do programa. Descobertas:
 
@@ -58,7 +60,7 @@ Os interessados no projeto são compostos por:
 * Para o novo projeto, é importante ter: informações centralizadas, histórico de crescimento, entregas das startup, alertas e lembretes para as startups marcarem reuniões (devolutivas) com os consultores.
 * Conexões: são todos os envolvimentos (outras Startups, consultores, investidores, etc) que a Startup tem durante o Nexus.
 
-## **(d) reflita sobre seu uso dos métodos -- o que deu certo, o que deu errado e o que você faria diferente**
+### **(d) reflita sobre seu uso dos métodos -- o que deu certo, o que deu errado e o que você faria diferente**
 
 O uso dos métodos foi bom e nos trouxe muitas respostas. Gravando a reunião temos “anotações em tempo real” e qualquer dúvida podemos consultar novamente esse registro. Porém se fosse para fazer algo diferente, faríamos uma reunião mais longa e com mais pessoas envolvidas. Como a Bárbara tinha tempo limitado, separamos as perguntas com antecedência e não podíamos nos estender muito em algum assunto. Além disso, a visão dela sobre como as Startups desfrutam do Nexus é enviesada, gostaríamos que tivesse uma pessoa representante das Startups na reunião. 
 
@@ -68,7 +70,7 @@ O uso dos métodos foi bom e nos trouxe muitas respostas. Gravando a reunião te
 
 O Desk Research foi mais complexo de ser feito, começamos pelo próprio site da Nexus, porém não obtivemos muitas informações, passamos então para o edital de seleção para nos dar algumas informações e em seguida procuramos por outros centros de inovação e incubação para saber como o sistema deles funcionava. Com a entrevista pedimos imagens do sistema atual deles para sabermos como está agora e o que vale a pena mudar ou não.
 
-## **(e) forneça de 6 a 8 descrições de tarefas de como você espera que o sistema seja usado.**
+### **(e) forneça de 6 a 8 descrições de tarefas de como você espera que o sistema seja usado.**
 
 * Centralização de dados: Espera-se que todos os dados do processo de acompanhamento sejam centralizados na plataforma. Dessa forma os usuários terão fácil acesso.
 * Inserção de relatórios: Os relatórios gerados pelos consultores devem ser inseridos na plataforma para que sejam interpretados.
@@ -78,7 +80,7 @@ O Desk Research foi mais complexo de ser feito, começamos pelo próprio site da
 * Consulta fácil: Os usuários devem conseguir, facilmente, utilizar filtros para consultar dados de empresas.
 * Padronização de dados de entrada
 
-## **Entrevista completa**
+### **Entrevista completa**
 <p align="center">  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFc-A5jR-qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
