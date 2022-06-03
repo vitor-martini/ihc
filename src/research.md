@@ -67,3 +67,7 @@ O Desk Research foi mais complexo de ser feito, começamos pelo próprio site da
 * Visualização de histórico: Os dados inseridos devem ser íntegros e a cada vez que um novo acompanhamento for feito, os dados antigos devem continuar acessíveis.
 * Consulta fácil: Os usuários devem conseguir, facilmente, utilizar filtros para consultar dados de empresas.
 * Padronização de dados de entrada
+
+<iframe width="420" height="315"
+src="https://youtu.be/DFc-A5jR-qo">
+</iframe>
