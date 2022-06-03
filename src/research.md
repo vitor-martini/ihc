@@ -68,6 +68,6 @@ O Desk Research foi mais complexo de ser feito, começamos pelo próprio site da
 * Consulta fácil: Os usuários devem conseguir, facilmente, utilizar filtros para consultar dados de empresas.
 * Padronização de dados de entrada
 
-<iframe width="420" height="315"
-src="https://youtu.be/DFc-A5jR-qo">
-</iframe>
+<p align="center">  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DFc-A5jR-qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
