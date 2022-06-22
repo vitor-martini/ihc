@@ -78,7 +78,7 @@ O Desk Research foi mais complexo de ser feito, começamos pelo próprio site da
 * Controle de agendas: Os usuários poderão marcar reuniões e notificar as Startups sobre pendências pelo sistema.
 * Visualização de histórico: Os dados inseridos devem ser íntegros e a cada vez que um novo acompanhamento for feito, os dados antigos devem continuar acessíveis.
 * Consulta fácil: Os usuários devem conseguir, facilmente, utilizar filtros para consultar dados de empresas.
-* Padronização de dados de entrada
+* Padronização de dados de entrada.
 
 ### **Entrevista completa**
 <p align="center">  
