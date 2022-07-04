@@ -37,11 +37,28 @@
   <img src="./img/lofi-prototype/sketch_3_2.png"/>
 </p>
 
+#### **Sketch 4**
+<p align="center">
+  <img src="./img/lofi-prototype/sketch_4_1.png"/>
+  <img src="./img/lofi-prototype/sketch_4_2.png"/>
+  <img src="./img/lofi-prototype/sketch_4_3.png"/>
+  <img src="./img/lofi-prototype/sketch_4_4.png"/>
+  <img src="./img/lofi-prototype/sketch_4_5.png"/>
+</p>
+
 ### **Low Fidelity Prototype**
+https://www.figma.com/file/sVDlSrqm73rlrxxqQ1MvXV/IHC?node-id=0%3A1
 <p align="center">
   <img src="./img/lofi-prototype/lofi_1.png"/>
   <img src="./img/lofi-prototype/lofi_2.png"/>
   <img src="./img/lofi-prototype/lofi_3.png"/>
   <img src="./img/lofi-prototype/lofi_4.png"/>
   <img src="./img/lofi-prototype/lofi_5.png"/>
+  <img src="./img/lofi-prototype/lofi_6.png"/>
+  <img src="./img/lofi-prototype/lofi_7.png"/>
+  <img src="./img/lofi-prototype/lofi_8.png"/>
+  <img src="./img/lofi-prototype/lofi_9.png"/>
+  <img src="./img/lofi-prototype/lofi_10.png"/>
+  <img src="./img/lofi-prototype/lofi_11.png"/>
+  <img src="./img/lofi-prototype/lofi_12.png"/>
 </p>
