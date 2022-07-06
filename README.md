@@ -11,5 +11,5 @@ Publicado em: https://vitor-martini.github.io/ihc/
 ## Tópicos
 
 * [Relatório de Research](/src/research.md)
-* [Low Fidelity Prototype](/src/lofi-prototype.md)
+* [Protótipo de Baixa Fidelidade](/src/lofi-prototype.md)
 * [Avaliação por Inspeção](/src/inspection-evaluation.md)
