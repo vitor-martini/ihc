@@ -8,3 +8,4 @@ Esse projeto consiste em desenvolver uma plataforma web para gerenciar o crescim
 
 * [Relatório de Research](/src/research.md)
 * [Low Fidelity Prototype](/src/lofi-prototype.md)
+* [Avaliação por Inspeção](/src/inspection-evaluation.md)
