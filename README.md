@@ -13,3 +13,5 @@ Publicado em: https://vitor-martini.github.io/ihc/
 * [Relatório de Research](/src/research.md)
 * [Protótipo de Baixa Fidelidade](/src/lofi-prototype.md)
 * [Avaliação por Inspeção](/src/inspection-evaluation.md)
+* [Protótipo de Alta Fidelidade](/src/hifi-prototype.md)
+* [Testes com usuários](/src/user-testing.md)
