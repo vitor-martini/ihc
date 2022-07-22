@@ -32,3 +32,6 @@
  - Também como os usuários anteriores, conseguiu acessar os eventos específicos da empresa pelo caminho "home -> empresar -> samsung -> acompanhamento -> agenda". Achou com facilidade, porém sentiu falta de um botão "Voltar" para a tela de acompanhamento, uma vez que desse modo foi aberta a tela da agenda.
  - Notou que na tela de acompanhamento da empresa, não tem o menu superior, saindo do padrão.
  
+### Melhorias necessárias
+- Mudança no layout da agenda para o formato de calendário, visando o melhor entendimento dos usuários.
+- Adicionar botão de voltar, melhorando a navegabilidade.
